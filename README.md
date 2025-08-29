@@ -5,6 +5,7 @@ Value at Risk (VaR)- Monte Carlo Simulation
 **Overview**
 
 This repository contains a Monte Carlo Simulation-based Value at Risk (VaR) model applied to an equally weighted portfolio comprising five of the largest Indian publicly traded companies by market capitalization:
+<bv>
 a). Reliance Industries Ltd.
 b). HDFC Bank Ltd.
 c). Bharti Airtel Ltd.
