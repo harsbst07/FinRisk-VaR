@@ -12,7 +12,7 @@ d). Tata Consultancy Services (TCS)<br>
 e). ICICI Bank Ltd<br>
 The model simulates 10,000 portfolio return paths to estimate the 1-day VaR at 99% confidence level.<br>
 
-**Objective**<br>
+**Objectives**<br>
 a). To provide a robust quantitative framework for measuring market risk exposure using historical data and stochastic simulation techniques, enabling risk managers, analysts, and investors to:<br>
 b). Estimate potential portfolio losses under normal market conditions.<br>
 c). Quantify tail risk with greater accuracy than variance-covariance or historical methods.<br>
